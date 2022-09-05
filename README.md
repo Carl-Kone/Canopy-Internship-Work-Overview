@@ -13,8 +13,8 @@
 <li>
     <h3>Update the UI of the SAAS for it to be more user-friendly</h3>
     <div>
-    <img src="images/before.png />
-    <img src="images/after.png />
+    <img src="images/before.png" />
+    <img src="images/after.png" />
     </div>
 </li>
 </ul>
