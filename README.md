@@ -17,7 +17,7 @@
     <ul>
         <li>
             <h4>PDFParser</h4>
-            <p> Read the pdf files and extract data from table in the pdf file. Then the extracted data is stored in a csv file which can be easily exported to Excel.</p>
+            <p> Read the pdf files and extract data from tables within the file. Then the extracted data is stored in a csv file which can be easily exported to Excel.</p>
         </li>
         <li>
             <h4>ImageParser</h4>
@@ -26,7 +26,7 @@
     </ul>
 </li>
 <li>
-    <h3>Update the UI of the SAAS for it to be more user-friendly and uniform</h3>
+    <h3>Updated the UI of the SAAS for it to be more user-friendly and uniform</h3>
     <div>
     <h4>BEFORE</h4>
     <img src="images/before.png" />
@@ -35,6 +35,6 @@
     </div>
 </li>
 <li>
-    <h3>Translate the GitLab CI/CD scripts into Github Actions scripts as it was required to move the code's repository from Gitlab to Github.</h3>
+    <h3>Translated the GitLab CI/CD scripts into Github Actions scripts as it was required to move the code's repository from Gitlab to Github.</h3>
  </li>
 </ul>
