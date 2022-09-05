@@ -7,7 +7,7 @@
 
 <ul>
 <li>
-    <h3>Developed the marketing website for the product</h3>
-    <p>The Image will be here<p>
+    <h3>Help Develop the marketing website for the product</h3>
+    <p> Here is the <a href="https://lively-crepe-04b0ca.netlify.app">link</a> to the site </p>
 </li>
 </ul>
