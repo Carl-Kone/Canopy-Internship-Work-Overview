@@ -11,8 +11,19 @@
     <p> Here is the <a href="https://lively-crepe-04b0ca.netlify.app">link</a> to the site </p>
 </li>
 <li>
-    <h3>Wrote several Python scripts in order to extract data from an XML file, read and extract data from a table in a PDF file and extract images from a PDF file.
-</h3>
+    <h3>Wrote Python scripts in order to extract data from an XML file, read and extract data from a table in a PDF file and extract images from a PDF file.</h3>
+    <p>There was a client who had a considerable amount of data in 3 pdf files that were sent to us so I was asked to write scripts in order to extract that data automatically.</p>
+    <p> The scripts can be found above.</p>
+    <ul>
+        <li>
+            <h4>PDFParser</h4>
+            <p> Read the pdf files and extract data from table in the pdf file. Then the extracted data is stored in a csv file which can be easily exported to Excel.</p>
+        </li>
+        <li>
+            <h4>ImageParser</h4>
+            <p>Read the pdf files and extract images which are then stored locally before being transfered to an S3 amazon server.</p>
+        </li>
+    </ul>
 </li>
 <li>
     <h3>Update the UI of the SAAS for it to be more user-friendly and uniform</h3>
