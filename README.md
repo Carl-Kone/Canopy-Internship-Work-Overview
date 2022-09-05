@@ -11,9 +11,11 @@
     <p> Here is the <a href="https://lively-crepe-04b0ca.netlify.app">link</a> to the site </p>
 </li>
 <li>
-    <h3>Update the UI of the SAAS for it to be more user-friendly</h3>
+    <h3>Update the UI of the SAAS for it to be more user-friendly and uniform</h3>
     <div>
+    <label>BEFORE</label>
     <img src="images/before.png" />
+    <label>AFTER</label>
     <img src="images/after.png" />
     </div>
 </li>
