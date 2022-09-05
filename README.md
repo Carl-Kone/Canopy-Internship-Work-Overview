@@ -4,6 +4,7 @@
 
 <h1>Canopy Internship Work Overview</h1>
 <p>This repository's purpose is to presents the work I've done during my internship at Canopy<p>
+<p>As the SAAS's code belongs to Canopy, I am unable to upload the code to this repository. But below are some of the main points I worked on during the inernship</p>
 
 <ul>
 <li>
