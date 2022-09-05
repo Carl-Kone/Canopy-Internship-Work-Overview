@@ -13,9 +13,9 @@
 <li>
     <h3>Update the UI of the SAAS for it to be more user-friendly and uniform</h3>
     <div>
-    <label>BEFORE</label>
+    <h4>BEFORE</h4>
     <img src="images/before.png" />
-    <label>AFTER</label>
+    <h4>AFTER</h4>
     <img src="images/after.png" />
     </div>
 </li>
