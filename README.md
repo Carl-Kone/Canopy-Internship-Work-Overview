@@ -9,7 +9,7 @@
 <ul>
 <li>
     <h3>Helped Design and Develop the marketing website for the product</h3>
-    <p> Here is the <a href="https://lively-crepe-04b0ca.netlify.app">link</a> to the site </p>
+    <p>link to the website <a href="https://lively-crepe-04b0ca.netlify.app">MARKETING WEBSITE</a></p>
 </li>
 <li>
     <h3>Wrote Python scripts in order to extract data from an XML file, read and extract data from a table in a PDF file and extract images from a PDF file.</h3>
