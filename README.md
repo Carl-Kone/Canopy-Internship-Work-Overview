@@ -11,6 +11,10 @@
     <p> Here is the <a href="https://lively-crepe-04b0ca.netlify.app">link</a> to the site </p>
 </li>
 <li>
+    <h3>Wrote several Python scripts in order to extract data from an XML file, read and extract data from a table in a PDF file and extract images from a PDF file.
+</h3>
+</li>
+<li>
     <h3>Update the UI of the SAAS for it to be more user-friendly and uniform</h3>
     <div>
     <h4>BEFORE</h4>
@@ -19,4 +23,7 @@
     <img src="images/after.png" />
     </div>
 </li>
+<li>
+    <h3>Translate the GitLab CI/CD scripts into Github Actions scripts as it was required to move the code's repository from Gitlab to Github.</h3>
+ </li>
 </ul>
