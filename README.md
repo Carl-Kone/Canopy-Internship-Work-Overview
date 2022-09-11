@@ -14,7 +14,7 @@
 <li>
     <h3>Wrote Python scripts in order to extract data from an XML file, read and extract data from a table in a PDF file and extract images from a PDF file.</h3>
     <p>There was a client who had a considerable amount of data in 3 pdf files that were sent to us so I was asked to write scripts in order to extract that data automatically.</p>
-    <p> The scripts can be found above.</p>
+    **The scripts can be found above.**
     <ul>
         <li>
             <h4>PDFParser</h4>
