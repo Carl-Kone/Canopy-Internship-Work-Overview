@@ -9,7 +9,7 @@
 <ul>
 <li>
     <h3>Helped Design and Develop the marketing website for the product</h3>
-    <p>link to the website <a href="https://lively-crepe-04b0ca.netlify.app">MARKETING WEBSITE</a></p>
+    <p>link to the website <a href="https://lively-crepe-04b0ca.netlify.app">MARKETING WEBSITE</a> (Not done yet as it was not among the prority tickets)</p>
 </li>
 <li>
     <h3>Wrote Python scripts in order to extract data from an XML file, read and extract data from a table in a PDF file and extract images from a PDF file.</h3>
